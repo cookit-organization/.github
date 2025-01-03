@@ -7,7 +7,4 @@
 
   <h2>Share your recipes with the world</h2>
 
-  ![My Skills](https://skills.thijs.gg/icons?i=java,mongodb,html,js,git,nodejs,css)
-
- 
 </div>  
